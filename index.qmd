@@ -1,11 +1,8 @@
 ---
-title: Ichneumonid Research in Switzerland: A Review of Knowledge, Gaps, and Key Actors
-authors:
-  - name: Jannis Bolzern
-    affiliation: ZHAW Wädenswil – Research Group for Urban Ecology
-    roles: writing
-    corresponding: true
-bibliography: references.bib
+title: "Ichneumonid Research in Switzerland: A Review of Knowledge, Gaps, and Key Actors"
+author: "Jannis Bolzern"
+affiliation: "ZHAW Wädenswil – Research Group for Urban Ecology"
+date: today
 ---
 
 

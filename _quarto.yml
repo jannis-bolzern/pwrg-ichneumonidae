@@ -1,21 +1,16 @@
 project:
-  type: manuscript
-
-manuscript:
-  article: index.qmd
+  type: default
 
 format:
-  html:
-    comments:
-      hypothesis: true
-  docx: default
-  jats: default
+  pdf:
+    toc: true
+    number-sections: true
+    fig-cap-location: bottom
+    citation-location: margin
+    fontsize: 11pt
+    geometry: margin=2.5cm
+    documentclass: article
+    colorlinks: true
 
-  # (other formats)
-  # pdf: default
-
-execute:
-  freeze: true
-
-
-
+bibliography: references.bib
+lang: en
