@@ -1,0 +1,42 @@
+---
+title: Ichneumonid Research in Switzerland: A Review of Knowledge, Gaps, and Key Actors
+authors:
+  - name: Jannis Bolzern
+    affiliation: ZHAW Wädenswil – Research Group for Urban Ecology
+    roles: writing
+    corresponding: true
+bibliography: references.bib
+---
+
+
+# Introduction
+
+*A brief introduction to the ecological relevance of Ichneumonidae and the motivation for this research project.*
+
+# Project Objectives
+
+- Synthesizing the current state of knowledge on Ichneumonid wasps
+- Identifying major research gaps
+- Mapping experts and institutional actors in the field
+
+# 1. Current State of Research
+
+\include{sections/03_state_of_research.qmd}
+
+# 2. Methodology
+
+*A description of literature review strategies, approaches to expert identification, and research synthesis.*
+
+# 3. Knowledge Gaps and Research Questions
+
+*A critical synthesis of what remains unknown and which research directions are promising.*
+
+# 4. Potential Master’s Thesis Topics
+
+*Concrete suggestions for future thesis projects derived from the review.*
+
+# 5. Conclusion
+
+*A brief summary and outlook for research on Ichneumonidae in Switzerland and beyond.*
+
+# References
