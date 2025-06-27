@@ -15,6 +15,22 @@ date: today
 -   Identifying major research gaps
 -   Mapping experts and institutional actors in the field
 
+# 1 Introduction
+
+Ichneumonidae, or Darwin wasps, represent one of the most diverse families of insects, comprising tens of thousands of species worldwide. As parasitoids of holometabolous insects and arachnids, they play a central role in regulating arthropod populations, shaping community dynamics, and supporting ecosystem stability. Their extraordinary ecological breadth — from hyperparasitoids to wood-boring specialists — reflects a long and complex evolutionary history marked by repeated adaptive radiations and intricate trophic interactions.
+
+Despite their ecological significance, ichneumonids remain comparatively understudied. Most species lack formal descriptions, known host associations, or reliable identification tools. These taxonomic and biological challenges have hindered broader ecological integration and practical applications, such as conservation planning or biological control.
+
+This research project aims to synthesize the current scientific understanding of ichneumonid biology, evolution, systematics, and ecology, with the goal of identifying major research gaps. Building on this synthesis, it also explores feasible and ecologically meaningful directions for future research, particularly in applied contexts suited to a master’s thesis. The focus lies on developing questions that advance ecological insight while remaining tractable despite taxonomic constraints.
+
+# 2 Methodology
+
+This synthesis is based on a comprehensive literature review conducted between May and June 2025. Sources included peer-reviewed journal articles, taxonomic monographs, book chapters, and authoritative checklists. Core references include Quicke (2015), Broad et al. (2018), and recent phylogenetic studies by Sharanowski et al. (2021), Santos et al. (2021), and Klopfstein et al. (2019). Literature was identified through targeted keyword searches (e.g., "Ichneumonidae ecology," "ichneumonid systematics," "parasitoid host range") in databases such as Web of Science, Google Scholar, and ResearchGate.
+
+The review prioritized recent studies with ecological, evolutionary, or applied relevance, while integrating foundational taxonomic literature where necessary. Bibliographic management was performed using a citation manager (Zotero), and all references were formatted for citation in Quarto markdown using APA-style citation keys. The identification of research gaps was guided by thematic coding across domains (e.g., taxonomy, biogeography, applied ecology) and by cross-referencing trends in recent synthesis articles.
+
+Where appropriate, literature was supplemented by regional sources specific to Switzerland and Central Europe, including national checklists and biodiversity databases. The resulting synthesis reflects both global knowledge and regionally grounded challenges relevant to ichneumonid research.
+
 # 3 Current State of Research
 
 The family Ichneumonidae, commonly known as Darwin wasps, is extraordinarily species-rich and biologically diverse, yet remains comparatively understudied in many aspects. Recent research has begun to illuminate the biology, systematics, evolution, and ecology of this group, but large gaps in knowledge persist. Below, I review the current scientific understanding of ichneumonid parasitoid wasps in terms of their biology, taxonomy, evolutionary history, ecological roles, geographic distribution (globally and in Europe, with focus on Switzerland), and the field methods used to study them.
@@ -27,7 +43,7 @@ Ichneumonid wasps are koinobiont or idiobiont parasitoids of other arthropods, m
 
 In idiobiont strategies, the host is permanently paralyzed or developmentally arrested at oviposition, whereas koinobiont parasitoids allow the host to continue feeding and moulting for part of the parasitoid’s development. These strategies correlate strongly, though not perfectly, with whether the parasitoid feeds internally or externally: the great majority of koinobionts are endoparasitoids, while idiobionts are usually ectoparasitoids of concealed or sessile stages [@quicke2015]. However, exceptions exist. Some speices, notably many Ichneumoninae such as those in genus *Ichneumon*, are endoparasitic idiobionts that specialise in attacking lepidopteran pupae [@tschopp2013]. Conversely, a few koinobiont ectoparasitoids are known, like the spider-attacking Polysphincta group [@sobczak2017].
 
-These developmental strategies also broadly correlate with host range. Idiobionts tend to be generalists, targeting a wider array of host taxa. Koinobionts, by contrast, must tolerate continued host development and immune responses, which typically requires finer physiological adaptation and narrows their potential host range. As such, idiobiont/koinobiont status is frequently used as a proxy for specialization, especially when detailed biological data are lacking. While exceptions exist, this general pattern is well supported across Ichneumonoidae and tends to be conserved at the tribe level \[\@quicke2015\].
+These developmental strategies also broadly correlate with host range. Idiobionts tend to be generalists, targeting a wider array of host taxa. Koinobionts, by contrast, must tolerate continued host development and immune responses, which typically requires finer physiological adaptation and narrows their potential host range. As such, idiobiont/koinobiont status is frequently used as a proxy for specialization, especially when detailed biological data are lacking. While exceptions exist, this general pattern is well supported across Ichneumonoidae and tends to be conserved at the tribe level [@quicke2015].
 
 Finally, a substantial minority of ichneumonids are hyperparasitoids — indeed, only two ichneumonoid lineages are obligate hyperparasitoids, the Eucerotinae and the Mesochorinae; in the latter, species such as *Mesochorus gemellus* oviposit into larvae of the braconid parasitoid *Cotesia glomerata* while those larvae are still developing inside caterpillars of *Pieris brassicae*, thereby inserting a fourth trophic level into terrestrial food webs [@quicke2015; @harvey2016].
 
@@ -195,11 +211,11 @@ Voltinism is central to these dynamics. While most temperate ichneumonids are un
 
 In the field, coexistence of multivoltine and univoltine parasitoids on the same host may lead to niche partitioning by timing. A notable case is the Glanville fritillary (*Melitaea cinxia*): it is attacked by a gregarious braconid (*Cotesia melitaearum*) that fits 2–3 generations within the host’s single yearly generation, and by a larger ichneumonid (*Hyposoter horticola*) that is strictly univoltine. Initially, it was hypothesized that the multivoltine *Cotesia* outcompetes locally while *Hyposoter* persists via better dispersal, but experiments reveal competitive advantage shifts seasonally — *Hyposoter* dominates in summer and spring through physiological suppression and resource preemption, while *Cotesia* gains superiority in autumn via physical combat. This temporal separation allows both specialists to stably exploit the same host through distinct seasonal niches [@vannouhuys2010].
 
-Beyond temporal separation, community-level interactions among ichneumonid parasitoids are further structured by various forms of niche partitioning, including differences in host instar preference, host-finding efficiency, competitive ability, and spatial resource use, and behavioral adaptations. For example, two biologically similar ichneumonids — a generalist *Campoplex* and the specialist *Glypta similis* — both attack larvae of the rose tortricid Pardia tripunctata. Although Campoplex exhibits superior competitive ability in multiparasitized hosts, it is comparatively less effective at locating these hosts than the specialist Glypta similis [@quicke2015]. Additionally, spatial segregation within vegetation strata reduces direct competition, as demonstrated by *Gelis* spp. hyperparasitoids attacking *Cotesia* cocoons; three species predominantly forage in lower vegetation layers, whereas a fourth exploits higher canopy layers. This vertical partitioning is further reinforced by differential tree use, with species typically inhabiting distinct trees or, when co-occurring, separating vertically within the same tree [@gokhman2025]. Behavioral mechanisms also mediate coexistence: *Pimpla disparis* and *Itoplectis conquisitor*, both show interspecific host discrimination when naïve, avoiding hosts already parasitized by heterospecifics. This reduces costly multiparasitism and may facilitate coexistence despite overlapping host use. However, prior oviposition experience lowers this discrimination, increasing the likelihood of multiparasitism — particularly under conditions of perceived host scarcity — and potentially intensifying competitive interactions [@moser2005].
+Beyond temporal separation, community-level interactions among ichneumonid parasitoids are further structured by various forms of niche partitioning, including differences in host instar preference, host-finding efficiency, competitive ability, and spatial resource use, and behavioral adaptations. For example, two biologically similar ichneumonids — a generalist *Campoplex* and the specialist *Glypta similis* — both attack larvae of the rose tortricid Pardia tripunctata. Although Campoplex exhibits superior competitive ability in multiparasitized hosts, it is comparatively less effective at locating these hosts than the specialist Glypta similis [@quicke2015]. Additionally, spatial segregation within vegetation strata reduces direct competition, as demonstrated by *Gelis* spp. hyperparasitoids attacking *Cotesia* cocoons; three species predominantly forage in lower vegetation layers, whereas a fourth exploits higher canopy layers. This vertical partitioning is further reinforced by differential tree use, with species typically inhabiting distinct trees or, when co-occurring, separating vertically within the same tree [@gokhman2025]. Behavioral mechanisms also mediate coexistence: *Pimpla disparis* and *Itoplectis conquisitor*, both show interspecific host discrimination when naïve, avoiding hosts already parasitized by heterospecifics. This reduces costly multiparasitism and may facilitate coexistence despite overlapping host use. However, prior oviposition experience lowers this discrimination, increasing the likelihood of multiparasitism — particularly under conditions of perceived host scarcity — and potentially intensifying competitive interactions [@moser2008].
 
 Trophic layering introduces higher-order interactions into parasitoid communities. Hyperparasitoids can significantly affect ichneumonid dynamics by altering the regulation of primary parasitoid populations. They typically suppress primary parasitoid effectiveness by delaying development, skewing sex ratios, and increasing mortality, thereby potentially weakening top-down control of herbivore populations [@quicke2015]. However, hyperparasitoids do not necessarily destabilize these communities. Under certain conditions, their presence can even enhance coexistence among primary parasitoids, promoting overall stability in parasitoid systems [@gokhman2025].
 
-Finally, climate change disrupts ichneumonid dynamics. Warming-induced host phenology shifts may desynchronize interactions, especially in temperate systems where parasitoid diapause is cued by photoperiod. Mismatches can reduce parasitism rates or strand emerging wasps without hosts, propagating demographic effects through food webs [@regniere2023; @aguila2021]. Multivoltine generalists may buffer mismatches via overlapping generations, but univoltine specialists face higher extinction risks — differentially restructuring entire networks.
+Finally, climate change disrupts ichneumonid dynamics. Warming-induced host phenology shifts may desynchronize interactions, especially in temperate systems where parasitoid diapause is cued by photoperiod. Mismatches can reduce parasitism rates or strand emerging wasps without hosts, propagating demographic effects through food webs [@régnière2021; @ramosaguila2023]. Multivoltine generalists may buffer mismatches via overlapping generations, but univoltine specialists face higher extinction risks — differentially restructuring entire networks.
 
 ### Spatial Ecology and Dispersal
 
@@ -267,68 +283,162 @@ Despite this substantial progress, the ichneumonid fauna of Switzerland remains 
 
 ## 3.6 Field Research Methods
 
-Comprehensive ecological and taxonomic research on Ichneumonidae hinges on robust field methodologies. Given the vast species richness and ecological heterogeneity of this family, no single method suffices to adequately sample ichneumonid communities or generate reliable biological data. Researchers must integrate multiple collection techniques, carefully controlled rearing protocols, and meticulous specimen handling to overcome challenges such as low detectability, cryptic species complexes, and erroneous host associations. This section provides a detailed overview of best practices in ichneumonid fieldwork, focusing on passive and active trapping, host-based rearing, specimen preservation, and sampling limitations.
+Comprehensive ecological and taxonomic research on Ichneumonidae hinges on robust and methodologically diverse field practices. Given the family’s immense species richness, ecological specialization, and behavioral variability, no single collection technique is sufficient to capture a representative sample of the local fauna [@quicke2015; @broad2018]. Passive and active methods each introduce their own taxonomic and ecological biases, and many ichneumonids escape detection unless targeted by specialized approaches. As both @quicke2015 and @broad2018 emphasize, only a combination of techniques can produce a more complete and reliable picture of ichneumonid diversity. This section outlines best practices for ichneumonid fieldwork, with a focus on passive and active trapping, host-based rearing, specimen preservation, and associated methodological considerations
 
 ### Passive Collection Techniques
 
-Passive trapping is the cornerstone of ichneumonid sampling, particularly for assessing faunal composition over time and space. Among the most productive techniques is **Malaise trapping**, a passive intercept method that exploits the phototactic and vertical flight responses of flying insects. Malaise traps have been widely used to inventory ichneumonid assemblages across ecosystems, including tropical rainforests and temperate woodlands (Quicke, 2015, pp. 520–522). Proper placement—ensuring the central curtain is flush with the ground and the canopy is taut—maximizes flight interception. The collecting head should ideally be placed toward the brightest side of the trap to enhance specimen movement into the alcohol-filled collecting jar (Quicke, 2015, p. 522). Standard configurations can run unattended for 1–2 weeks with minimal maintenance, making them especially suitable for long-term monitoring.
+Passive trapping methods are essential for capturing ichneumonids, particularly because many species are rarely encountered otherwise. The most productive and widely used passive method for sampling ichneumonids is the Malaise trap, which exploits their vertical escape behavior and operates continuously across seasons and habitats [@quicke2015; @broad2018]. Its effectiveness depends on proper setup — tight mesh, smooth canopy, and well-positioned collecting heads — as well as a well-designed sampling scheme that captures spatial and temporal variation [@quicke2015]. While highly efficient, Malaise trapping generates large catches that require considerable sorting effort, particularly in summer when Diptera dominate the bycatch. This necessitates sufficient processing capacity and, where possible, collaboration with other researchers who can utilize non-target material [@broad2018]. Moreover, the method exhibits taxonomic and behavioral biases: some groups, such as Cryptinae or Rhyssinae, are poorly sampled unless modified designs — like trunk-embracing or canopy-suspended traps—are used. Ground-level foragers or taxa restricted to dense understory may also escape capture, leading to systematic underrepresentation in inventories [@quicke2015].
 
-Despite their utility, Malaise traps exhibit taxonomic and behavioral biases. Some taxa, such as Cryptinae or Rhyssinae, are underrepresented in canopy-level Malaise traps but may be captured using modified variants, including trunk-embracing traps for xylophagous parasitoids (Quicke, 2015, p. 518) or canopy-suspended models (Quicke, 2015, p. 520). Conversely, taxa that remain close to the ground or forage in dense understory vegetation may escape interception entirely, leading to underestimation of diversity.
+Yellow pan traps, or Möricke traps, are another important passive method, particularly for capturing small-bodied ichneumonids associated with the herb layer. Despite early skepticism regarding their efficiency for Ichneumonoidae, multiple studies have confirmed their value — especially for groups such as Orthocentrinae, which parasitize Diptera larvae in the ground layer [@quicke2015]. Trap color significantly affects catch composition: yellow and green have consistently outperformed black and white traps, both in individual counts and subfamily representation. Like Malaise traps, however, pan traps exhibit strong taxonomic biases and may systematically underrepresent certain lineages. In addition, they are prone to desiccation or flooding and require frequent maintenance, with specimen quality often compromised under harsh conditions [@quicke2015].
 
-**Yellow pan traps**, or Möricke traps, are another important passive method, particularly for capturing small-bodied ichneumonids associated with the herb layer. Despite early skepticism regarding their efficiency for Ichneumonoidea, multiple studies have confirmed their value—especially for groups such as Orthocentrinae, which parasitize Diptera larvae in the ground layer (Quicke, 2015, p. 519; Broad et al., 2018, p. 13). Trap color significantly affects catch composition: yellow and green have consistently outperformed black and white traps, both in individual counts and subfamily representation (Quicke, 2015, p. 517). However, as pan traps are prone to desiccation or flooding, they require regular servicing and may yield degraded specimens in harsh conditions. To mitigate this, Quicke (2015, p. 519) recommends using salt-glycerol solutions or antimicrobial agents like sodium benzoate to preserve catch quality while avoiding toxic preservatives such as ethylene glycol.
-
-**Light traps** selectively attract nocturnal ichneumonids, particularly large-bodied Ophioninae and Netelia (Tryphoninae), which are underrepresented in daytime collections (Quicke, 2015, pp. 521–522). Optimal use involves hanging a UV-emitting bulb above a white sheet in an open area, ideally on warm, overcast nights with minimal moonlight. Manual collection from the sheet is superior to automated traps, which tend to miss late-flying or evasive species. Importantly, catch rates vary throughout the night; in one study, activity was strongly correlated with moon phase and peaked well after midnight (Quicke, 2015, p. 522). Thus, effective light trapping demands prolonged sampling effort and careful scheduling.
-
-Finally, **flight intercept traps**, consisting of vertical mesh barriers with collecting trays, can target low-flying or trunk-foraging taxa otherwise missed by Malaise traps. These are especially useful for taxa such as Masoninae or Banchinae that rarely ascend into flight paths captured by canopy-level traps (Quicke, 2015, p. 518).
+Light traps selectively attract a suite of genuinely nocturnal ichneumonids, particularly large-bodied Ophioninae, which are underrepresented in Malaise traps and other daytime methods [@quicke2015; @broad2018]. Some diurnal or crepuscular species may also be collected, likely individuals still active in the evening or disturbed from nearby vegetation. Effective light trapping involves suspending a UV-emitting or mercury vapor bulb above a white sheet in an open, dark area — preferably on warm, overcast nights with low moonlight. Blended UV-tungsten lamps, as used in Rothamsted traps, have proven especially effective under low ambient light conditions [@broad2018]. While LED lights remain largely untested, they are expected to function similarly. Manual collection from the sheet is generally more effective than automated traps, which may miss late-active or evasive species. Catch rates vary throughout the night, with some species peaking in the early morning hours, making prolonged sampling and careful timing essential [@quicke2015].
 
 ### Active Collection Techniques
 
-Active sampling is indispensable for targeting specific microhabitats or behaviorally elusive taxa. The most widespread active method is **sweep netting**, particularly in grasslands, ruderal vegetation, and field margins. Sweep netting is most effective during warm, dry conditions and should be performed with nets adapted to resist thorny vegetation (Quicke, 2015, p. 519). Proper technique involves rapid sweeping followed by specimen separation using aspirators or extraction bags. As Quicke (2015) notes, many ichneumonids—particularly smaller taxa—fly toward light after initial disturbance, facilitating capture within the net. However, standardization is difficult, and operator bias can influence catch composition and quantity.
+Active sampling is indispensable for targeting specific microhabitats or behaviorally elusive taxa. The most widespread active method is sweep netting, particularly in open habitats like meadows and low scrub for diurnal, active species. Sweep netting is most effective during warm, dry conditions and should be performed with nets adapted to resist thorny vegetation [@quicke2015]. Proper technique involves rapid sweeping followed by specimen separation using aspirators. As @quicke2015 notes, many ichneumonids — particularly smaller taxa — fly toward light after initial disturbance, facilitating capture within the net. However, standardization is difficult, and operator bias can influence catch composition and quantity.
 
-**Hand netting** is particularly useful for floral visitors and larger individuals active on vegetation, and it remains the method of choice for collecting rare, morphologically distinct taxa for taxonomic study. Quicke (2015, p. 518) also recommends tree-specific traps such as Tereshkin’s trunk intercept cone, which captures bark-foraging species like Xoridinae and Ephialtinae that ascend tree trunks.
-
-**Canopy fogging**, while widely used for sampling arthropods in tropical systems, is of limited utility for ichneumonids. Many species fly out of the fogged area before succumbing to the insecticide, and extremely small wasps may drift from the catch zone (Quicke, 2015, p. 521). However, fogging can complement other techniques by sampling otherwise inaccessible canopy-dwelling forms.
+Canopy fogging, while widely used for sampling arthropods in tropical systems, is of limited utility for ichneumonids. Many species — especially larger ichneumonids — fly out of the fogged area before succumbing to the insecticide, and extremely small wasps may drift from the catch zone [@quicke2015]. However, fogging can complement other techniques by sampling otherwise inaccessible canopy-dwelling forms.
 
 ### Rearing from Hosts
 
-Rearing ichneumonids from their hosts remains the gold standard for establishing host associations and understanding life history strategies. However, it requires rigorous control protocols to avoid contamination and misidentification. Quicke (2015, pp. 514–516) and Broad et al. (2018, p. 13) stress that many published host-parasitoid associations are erroneous, often due to multiple hosts being present in a single rearing container, misidentification of emerging parasitoids, or failure to track individual hosts.
+Rearing ichneumonids from their hosts remains the gold standard for establishing host associations and understanding life history strategies. However, it requires rigorous control protocols to avoid contamination and misidentification. @quicke2015 and @broad2018 stress that many published host-parasitoid associations are erroneous, often due to multiple hosts being present in a single rearing container, misidentification of emerging parasitoids, or failure to track individual hosts.
 
-To minimize error, each host should be reared in isolation or in tightly controlled cohorts. Researchers should record the number of initial hosts, inspect plant material for pre-parasitized or dead individuals, and collect all parasitoid cocoons or pupae for subsequent verification (Quicke, 2015, pp. 523–524). Hygienic conditions are essential—condensation and spoilage can lead to fungal outbreaks and host death. Plastic containers should include absorbent materials such as tissue paper, changed regularly, and shaded conditions should mimic natural light cycles and humidity (Quicke, 2015, p. 524).
+Best practice includes isolating host individuals, accounting for all emerging insects, and recovering host remains for later confirmation[@broad2018; @quicke2015]. This is especially important when working with Lepidoptera, the most commonly reared ichneumonid hosts. Hygienic conditions, proper ventilation, and temperature control are also vital to minimize pathogen outbreaks and ensure parasitoid development. For concealed hosts such as xylophagous beetle larvae, long-term substrate rearing in breathable enclosures may be necessary, albeit with low success rates [@quicke2015].
 
-Some ichneumonids, particularly parasitoids of leaf rollers, web spinners, or xylophagous larvae, require additional care. Leaf shelters should be opened prior to rearing to confirm active hosts and exclude predators or previously emerged parasitoids (Quicke, 2015, p. 524). For wood-boring hosts, rearing may take months or even years, and maintaining suitable substrate conditions (e.g. aeration, humidity) is critical. Using breathable enclosures such as pillowcases helps reduce fungal buildup, although frequent inspection is needed to detect emergence (Quicke, 2015, p. 524).
-
-In cases where rearing is not feasible, **molecular barcoding** of larval parasitoids or host remains offers a promising alternative, especially in cryptic systems or tropical surveys where adult emergence is rare (Quicke, 2015, p. 516).
+Molecular tools such as DNA barcoding now assist in verifying host-parasitoid associations, particularly when only larvae or damaged host remains are available [@quicke2015].
 
 ### Preservation and Mounting
 
-Proper specimen preservation is vital for subsequent identification and long-term storage. Broad et al. (2018) provide detailed guidelines for mounting ichneumonids of varying sizes. **Direct pinning** is suitable for specimens \>15 mm in length; the pin should enter the mesoscutum slightly off-center to preserve central sculpturing and avoid damaging the propleuron (Broad et al., 2018, p. 14). Smaller specimens are best mounted using **card points**, glued to the mesopleuron with water-soluble glue such as Seccotine, allowing clear views of diagnostic features.
+Due to their fragile morphology — long antennae, slender legs, and narrow petiole connections — ichneumonids require careful preparation to preserve critical features and minimize damage [@broad2018]. The two main methods are direct pinning for larger specimens and card pointing for smaller or delicate ones.
 
-Specimens preserved in ethanol can be mounted after brief immersion in clean 96% ethanol to remove grease. While air drying is often sufficient, small-bodied ichneumonids (e.g., Orthocentrinae) may collapse during drying; chemical dehydration (e.g., ethanol:xylene followed by amyl acetate) is recommended for these delicate taxa (Broad et al., 2018, p. 16).
+Direct pinning is recommended for larger specimens (typically \>15 mm) and is best performed on freshly killed individuals, though it can also be applied to ethanol-preserved material [@quicke2015]. The pin should enter the mesoscutum slightly off-center — avoiding damage to diagnostic sculpturing — and exit behind the forelegs at the mesosternum. Pins should be inserted at about two-thirds height to allow room for labels. For species with long appendages, like Ophioninae, legs, antennae, and ovipositors should be gently cross-pinned against foam during drying to prevent curling and breakage. Precise positioning or wing spreading, as done with Lepidoptera, is unnecessary and impractical for large series, and takes up excessive space in collections [@broad2018].
 
-Correct **labeling** is critical. Observations such as flagellomere counts should be made before mounting, especially in long-antennaed groups like Ophioninae, where damage is common. Mounting specimens consistently (e.g., with head facing left) facilitates comparative work across collections.
+Card pointing is preferred for smaller or more fragile specimens. The specimen should be glued to the mesopleuron using a reversible, water-soluble glue. This attachment point preserves visibility of key characters, including the mesosternum and wing bases. Gluing to the mesosternum or using flat card mounts is discouraged, as it obscures critical traits such as the posterior mesosternal carina, which is particularly important in some subfamilies like Banchinae. Micropinning — mounting specimens on double pins into plastazote — is not recommended for ichneumonids, as the added mobility increases the risk of damage [@broad2018].
 
-### Sampling Challenges and Gaps
+Specimens preserved in ethanol can generally be air-dried for mounting, but a brief rinse in clean ethanol helps remove greasy residues from degraded trapping fluids, improving surface clarity[@quicke2015]. Smaller ichneumonids prone to collapse — such as Orthocentrinae — benefit from chemical drying. @broad2018 recommend a method involving dehydration in a 3:2 ethanol–xylene mixture followed by immersion in amyl acetate, which preserves volume and erect setae. However, both xylene and amyl acetate are hazardous and must be used in a fume hood. As a more accessible and safer alternative, ethyl acetate may be substituted, though the preservation quality is generally lower.
 
-Despite the variety of available methods, field sampling of ichneumonids faces inherent limitations. Many species are rare or cryptic, and even intensive Malaise trapping rarely achieves asymptotic species richness (Quicke, 2015, p. 517). Flight behavior, microhabitat preferences, and diel activity patterns contribute to undersampling of entire taxa. For instance, species that spend much of their time searching on tree bark, in leaf litter, or within enclosed microhabitats are unlikely to be caught using standard traps.
+Correct labeling is essential for specimen integrity and later verification. Labels should include full collection data and be placed low enough for safe handling [@quicke2015]. Diagnostic features prone to damage — namely antennal segment counts, which are particularly important for identifying groups like Ophioninae and *Netelia* — should be recorded early and noted on a separate label using standard abbreviations (e.g., “F” for flagellomeres) [@broad2018]. Consistent labeling and orientation also support effective curation and taxonomic comparison.
 
-Taxonomic expertise is another bottleneck. Broad et al. (2018, p. 13) emphasize the frequency of misidentifications in online databases and historical literature. The presence of cryptic species complexes, coupled with morphological similarity across genera, necessitates cautious interpretation of both field and rearing data. Molecular techniques hold promise in resolving such issues but remain underutilized outside of major barcoding efforts.
+# 4 Research Gaps and Future Directions
 
-Ultimately, a **multi-method approach**—integrating passive and active collection, rearing, molecular validation, and high-quality curation—is indispensable for robust ichneumonid research. As Quicke (2015, p. 513) notes, understanding the biology and diversity of this group depends on both methodological rigor and taxonomic vigilance.
+Despite substantial recent advances in the study of Ichneumonidae, significant knowledge gaps remain across nearly all major research domains. These limitations constrain not only our understanding of the group's evolutionary and ecological roles but also their application in conservation and agroecology. Key research gaps include:
 
-# 2. Methodology
+## Taxonomy and Systematics
 
-*A description of literature review strategies, approaches to expert identification, and research synthesis.*
+-   The majority of ichneumonid species remain undescribed, especially in tropical and alpine regions \[\@klopfstein2019; \@veijalainen2012\].
 
-# 3. Knowledge Gaps and Research Questions
+-   Many subfamilies (e.g., Cryptinae, Ichneumoninae) lack modern, comprehensive taxonomic revisions.
 
-*A critical synthesis of what remains unknown and which research directions are promising.*
+-   Outdated or regionally restricted keys limit identification; cryptic species complexes are common \[\@quicke2015\].
 
-# 4. Potential Master’s Thesis Topics
+-   Type material is often undigitized or poorly preserved, hampering revisionary work.
 
-*Concrete suggestions for future thesis projects derived from the review.*
+## Host Associations and Trophic Interactions
 
-# 5. Conclusion
+-   Host records are missing for over 90% of species \[\@klopfstein2019a\].
 
-*A brief summary and outlook for research on Ichneumonidae in Switzerland and beyond.*
+-   Host range breadth and the ecological consequences of host switching are poorly understood.
+
+-   The functional roles and prevalence of hyperparasitoids remain largely unexplored \[\@quicke2015; \@gokhman2025\].
+
+## Community and Functional Ecology
+
+-   Ichneumonids' roles in structuring insect communities are rarely quantified beyond descriptive accounts.
+
+-   The phenological effects of climate change on parasitoid–host synchrony are poorly documented \[\@regniere2023; \@aguila2021\].
+
+-   Few studies assess ichneumonid impacts on ecosystem processes such as herbivore regulation or multitrophic interactions.
+
+## Biogeography and Macroecology
+
+-   Alpine ichneumonid faunas remain undercollected despite signs of high beta diversity and possible endemism \[\@klopfstein2019\].
+
+-   Subfamily-specific diversity gradients are known, but genus- and species-level macroecology remains poorly resolved \[\@timms2016\].
+
+-   No continent-wide phylogeographic syntheses exist to trace postglacial range shifts or refugia.
+
+## Applied Research
+
+-   Ichneumonids remain underutilized in biological control due to low rearing success and limited host data \[\@seehausen2021\].
+
+-   Their potential as bioindicators is recognized but not yet operationalized due to ID difficulties and high sampling demands \[\@mazon2024; \@moller2021\].
+
+-   Standardized rearing and monitoring protocols are lacking for most taxa.
+
+Addressing these gaps will require integrative efforts across taxonomy, molecular biology, and field ecology, and would substantially enhance the ecological and applied relevance of ichneumonid research.
+
+# 5 Applied Research Directions for a Master's Thesis
+
+To contribute valuable ecological insight while remaining feasible within the taxonomic limitations of Ichneumonidae, the following three research topics are proposed. Each combines strong applied relevance with methodological practicality, leveraging Switzerland’s diverse landscapes and existing ecological knowledge.
+
+## Alpine Ichneumonid Diversity Along Elevation Gradients
+
+**Research Question:** How does ichneumonid community composition and subfamily richness change along elevation gradients in the Swiss Alps?
+
+**Rationale:** Alpine and subalpine habitats in Switzerland are increasingly recognized as hotspots of ichneumonid diversity, yet remain undercollected. Recent checklists \[\@klopfstein2019\] suggest a high proportion of unique or rarely encountered taxa at high elevations. The ecological drivers of this diversity, including temperature, vegetation structure, and host availability, are largely unexplored.
+
+**Methods:**
+
+-   Establish Malaise and pan trap transects spanning montane to alpine elevations (e.g., 800–2500 m).
+
+-   Sort specimens to subfamily and morphogroup level.
+
+-   Analyze community turnover using ordination methods (e.g., NMDS, PERMANOVA).
+
+-   Optional: Record co-occurring Lepidoptera or sawfly abundance to infer potential host associations.
+
+**Significance:**
+
+-   Provides foundational data on ichneumonid distribution across a major environmental gradient.
+
+-   Informs conservation priorities for alpine habitats.
+
+-   Avoids species-level ID by focusing on higher-level taxa and community metrics.
+
+## Effects of Habitat Fragmentation on Ichneumonid Communities
+
+**Research Question:** How does habitat fragmentation and land-use intensity affect ichneumonid abundance, richness, and subfamily composition in lowland agricultural landscapes?
+
+**Rationale:** Landscape simplification is known to disproportionately affect specialist parasitoids \[\@fraser2008a; \@ruiz-guerra2013\]. Yet, few studies have assessed ichneumonid responses to fragmentation in temperate Europe, and even fewer at a functional or subfamily level.
+
+**Methods:**
+
+-   Sample ichneumonids using Malaise traps in landscapes with varying degrees of fragmentation and connectivity (e.g., forest edges, isolated meadows, hedgerows).
+
+-   Quantify landscape metrics using remote sensing or GIS (e.g., patch size, connectivity, NDVI).
+
+-   Analyze richness and community composition relative to landscape context.
+
+**Significance:**
+
+-   Tests the hypothesis that fragmentation filters out specialized subfamilies.
+
+-   Aligns with agroecological goals of maintaining natural enemy communities.
+
+-   Generates data suitable for bioindicator development.
+
+## Functional Diversity Across Habitat Types
+
+**Research Question:** Do different habitat types (e.g., forests, grasslands, alpine meadows, orchards) support distinct functional assemblages of ichneumonids?
+
+**Rationale:** While habitat-specific shifts in subfamily abundance are suggested in the literature \[\@quicke2015\], few quantitative studies have assessed how functional diversity — defined by traits such as host range, life history, and phenology — varies across ecosystems.
+
+**Methods:**
+
+-   Sample a range of habitats using standardized traps.
+
+-   Sort specimens to subfamily and classify them into functional groups (e.g., koinobiont vs. idiobiont; Lepidoptera vs. Diptera specialists).
+
+-   Use functional diversity indices (e.g., FDis, Rao’s Q) to compare habitats.
+
+**Significance:**
+
+-   Links habitat characteristics with parasitoid community function.
+
+-   Supports conservation planning by identifying functionally unique habitats.
+
+-   Can be scaled depending on time and site access.
+
+Each of these projects is feasible within a one-season field season and can generate ecologically meaningful results without requiring expert-level taxonomy. They would provide valuable contributions to ichneumonid ecology in Switzerland and beyond, while helping address fundamental research gaps identified in Section 4.
 
 # References
