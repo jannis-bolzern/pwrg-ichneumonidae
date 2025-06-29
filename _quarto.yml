@@ -1,16 +1,25 @@
 project:
-  type: default
+  type: website
+  output-dir: docs
 
 format:
-  pdf:
-    toc: true
+  html:
+    grid:
+      sidebar-width: 250px
+      body-width: 900px
+      margin-width: 280px
+    theme: darkly.scss
     number-sections: true
-    fig-cap-location: bottom
-    citation-location: margin
-    fontsize: 11pt
-    geometry: margin=2.5cm
-    documentclass: article
-    colorlinks: true
-
-bibliography: references.bib
-lang: en
+    number-depth: 2
+    toc: true
+    toc-title: "Contents"
+    toc-depth: 3
+    csl: apa.csl
+    bibliography: references.bib
+  typst:
+    section-numbering: 1.1.1
+    number-depth: 2
+    toc: true
+    toc-depth: 2
+    csl: apa.csl
+    bibliography: references.bib
