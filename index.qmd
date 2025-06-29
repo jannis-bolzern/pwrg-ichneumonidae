@@ -3,7 +3,7 @@ title: "Ichneumonid Wasps: A Review of Knowledge, Gaps, and Applied Research Pot
 author:
   name: "Jannis Bolzern"
   affiliation: "ZHAW IUNR – Urban Ecology Research Group"
-date: today
+date: June 29, 2025
 abstract: "The parasitoid wasp family Ichneumonidae (Hymenoptera) ranks among the most diverse and ecologically significant insect groups, yet remains critically understudied. This synthesis reviews current knowledge across biological, taxonomic, evolutionary, ecological, and methodological domains, with a regional emphasis on Switzerland. Key limitations persist, including sparse host association data, unresolved community structures, geographic sampling gaps, and inadequate taxonomic infrastructure — factors that continue to impede applied ecological work. However, community-level studies at higher taxonomic resolution present a viable path forward. I conclude by proposing three realistic master's thesis topics to help bridge these gaps and advance ichneumonid ecology."
 format:
   html: default
