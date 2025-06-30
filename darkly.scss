@@ -295,6 +295,10 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0
   font-size: 0.95rem;
 }
 
+.sidebar nav[role=doc-toc] > ul li a {
+  line-height: 1.2rem;
+}
+
 // Add font size override for navigation links
 :root {
   --bs-nav-link-font-size: 0.95rem;

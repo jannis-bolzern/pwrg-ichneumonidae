@@ -1,24 +1,26 @@
 ---
-title: "Ichneumonid Wasps: A Review of Knowledge, Gaps, and Applied Research Potential"
+title: "Darwin Wasps: A Review of Knowledge, Gaps, and Applied Research Potential"
 author:
   name: "Jannis Bolzern"
   affiliation: "ZHAW IUNR – Urban Ecology Research Group"
 date: June 29, 2025
-abstract: "The parasitoid wasp family Ichneumonidae (Hymenoptera) ranks among the most diverse and ecologically significant insect groups, yet remains critically understudied. This synthesis reviews current knowledge across biological, taxonomic, evolutionary, ecological, and methodological domains, with a regional emphasis on Switzerland. Key limitations persist, including sparse host association data, unresolved community structures, geographic sampling gaps, and inadequate taxonomic infrastructure — factors that continue to impede applied ecological work. However, community-level studies at higher taxonomic resolution present a viable path forward. I conclude by proposing three realistic master's thesis topics to help bridge these gaps and advance ichneumonid ecology."
+abstract: "Darwin wasps (Ichneumonidae: Hymenoptera) rank among the most diverse and ecologically significant insect families, yet remain critically understudied. This synthesis reviews current knowledge across biological, taxonomic, evolutionary, ecological, and methodological domains, with a regional emphasis on Switzerland. Key limitations persist, including sparse host association data, unresolved community structures, geographic sampling gaps, and inadequate taxonomic infrastructure — factors that continue to impede applied ecological work. However, community-level studies at higher taxonomic resolution present a viable path forward. I conclude by outlining three feasible master’s thesis topics that address these gaps and provide practical entry points into applied ichneumonid ecology."
 format:
   html: default
-  typst: default
+  pdf: default
 citation: true
 bibliography: references.bib
 ---
 
+\newpage{}
+
 # Introduction
 
-The family Ichneumonidae — commonly referred to as Darwin wasps — is one of the most species-rich and ecologically significant insect groups, with over 25,000 species formally described and estimates ranging from 60,000 up to 100,000 species worldwide [@yu2016; @townes1969; @gauld2002]. These wasps play a vital role in regulating insect populations through parasitism and form an integral part of terrestrial food webs and ecosystem functioning. As parasitoids of holometabolous insects and, in some lineages, spiders or even other parasitoids, ichneumonids exhibit an extraordinary diversity of life history strategies, host associations, and morphological adaptations [@quicke2015]. Their ecological relevance is further underscored by their potential in biological control and bioindication, although such applications remain underdeveloped due to persistent knowledge gaps [@quicke2015; @mazón2024].
+The family Ichneumonidae — commonly referred to as Darwin wasps — is one of the most species-rich and ecologically significant insect groups, with over 25,000 species formally described and estimates ranging from 60,000 up to 100,000 species worldwide [@yu2016; @townes1969; @gauld2002]. These wasps play a vital role in regulating insect populations through parasitism and form an integral part of terrestrial food webs and ecosystem functioning. As parasitoids of holometabolous insects and, in some lineages, spiders or even other parasitoids, ichneumonids exhibit an extraordinary diversity of life history strategies, host associations, and morphological adaptations [@quicke2015]. Their ecological relevance is further underscored by their strong potential for use in biological control and as bioindicators [@quicke2015; @mazón2024].
 
-Despite their ubiquity across nearly all terrestrial biomes and their central ecological roles, ichneumonid wasps remain poorly studied relative to their diversity. A majority of species remain undescribed, and for many of the known taxa, basic biological information such as host associations, development, and phenology is lacking [@klopfstein2019a; @quicke2015]. In recent years, global research on Ichneumonidae has gained momentum, driven by advances in molecular phylogenetics [@sharanowski2021], integrative taxonomy [@bennett2019], and ongoing research into their potential as biological control agents in agroecosystems [@mukai2021]. Nevertheless, major gaps persist across taxonomy, ecology, and applied research, limiting both our understanding of ichneumonid diversity and their effective use in conservation or agricultural systems.
+Despite their ubiquity across nearly all terrestrial biomes and their central ecological roles, Darwin wasps remain poorly studied relative to their diversity. A majority of species remain undescribed, and for many of the known taxa, basic biological information such as host associations, development, and phenology is lacking [@klopfstein2019a; @quicke2015]. In recent years, global research on Ichneumonidae has gained momentum, driven by advances in molecular phylogenetics [@sharanowski2021], integrative taxonomy [@bennett2019], and ongoing research into their potential as biological control agents in agroecosystems [@mukai2021]. Nevertheless, major gaps persist across taxonomy, ecology, and applied research, limiting both our understanding of ichneumonid diversity and their effective use in conservation or agricultural systems.
 
-The most pronounced knowledge gaps exist in tropical regions, where ichneumonids remain severely undercollected and likely vastly underestimated in diversity [@veijalainen2012; @mazón2024]. Yet even within Europe, where faunistic work is comparatively advanced, significant regional disparities remain. In Switzerland, a recent national checklist compiled by @klopfstein2019 added hundreds of newly confirmed species and clarified the status of many historical records, significantly expanding the known fauna. However, the work also highlighted the fragmentary nature of existing knowledge. In particular, alpine and subalpine areas remain severely undercollected, despite indications that they may support a disproportionately high diversity of ichneumonids. Many species are known from only a handful of specimens or historical records, underscoring the need for targeted surveys in these habitats.
+The most pronounced knowledge gaps exist in tropical regions, where ichneumonids remain severely undercollected and likely vastly underestimated in diversity [@veijalainen2012; @meier2024]. Yet even within Europe, where faunistic work is comparatively advanced, significant regional disparities remain. In Switzerland, a recent national checklist compiled by @klopfstein2019 added hundreds of newly confirmed species and clarified the status of many historical records, significantly expanding the known fauna. However, the work also highlighted the fragmentary nature of existing knowledge. In particular, alpine and subalpine areas remain severely undercollected, despite indications that they may support a disproportionately high diversity of ichneumonids. Many species are known from only a handful of specimens or historical records, underscoring the need for targeted surveys in these habitats.
 
 This project is carried out as part of a research assignment within the Urban Ecology research group and aims to synthesize the current state of research on Ichneumonidae. The goal is twofold: first, to provide a structured overview of existing biological, systematic, ecological, and methodological knowledge about the family, identifying key publications and researchers active in the field; and second, to identify major research gaps and translate them into feasible, ecologically relevant research questions that could serve as the basis for a subsequent master's thesis. By establishing this foundation, the project seeks to clarify where further research — particularly in a Swiss context — can most effectively advance our understanding of ichneumonid diversity and function, and how such work might contribute to broader applications in ecological monitoring or biodiversity conservation.
 
@@ -26,9 +28,9 @@ This project is carried out as part of a research assignment within the Urban Ec
 
 This synthesis is based on an extensive literature review of primary and secondary sources concerning the biology, systematics, ecology, and research methods of the parasitoid wasp family Ichneumonidae. The goal was to consolidate key insights from both global and regional studies, with a particular emphasis on identifying research gaps relevant to a Swiss context.
 
-Relevant literature was identified using academic databases such as Web of Science, Scopus, and Google Scholar, as well as institutional repositories and journal archives (e.g. *Zootaxa*, *Journal of Hymenoptera Research*, *Insect Conservation and Diversity*). Reference lists from major review papers and taxonomic checklists were also consulted to ensure coverage of foundational and often-cited works. Priority was given to peer-reviewed publications published within the last two decades, though older seminal works were also included where appropriate.
+Relevant literature was identified using academic databases such as Web of Science, Scopus, and Google Scholar, as well as institutional repositories and journal archives (e.g., *Zootaxa*, *Journal of Hymenoptera Research*, *Insect Conservation and Diversity*). Reference lists from major review papers and taxonomic checklists were also consulted to ensure coverage of foundational and often-cited works. Priority was given to peer-reviewed publications published within the last two decades, though older seminal works were also included where appropriate.
 
-Several comprehensive sources served as core references throughout the synthesis. @quicke2015 provided an authoritative reference on ichneumonid biology, life history strategies, and morphological adaptations, and served as a conceptual backbone for much of the work. @klopfstein2019a synthesized the current state of ichneumonid research based on an international expert workshop and outlined urgent priorities for taxonomy, phylogenetics, ecology, and data infrastructure. It was particularly valuable in framing research gaps and future directions. For applied field methods, @broad2018 was instrumental, offering detailed practical guidelines for the collection, preservation, and handling of ichneumonid specimens. In the context of Swiss biodiversity, the national checklist by @klopfstein2019 was essential in assessing the current state of faunistic knowledge and identifying regional research gaps.
+Several comprehensive sources served as core references throughout the synthesis. @quicke2015 provided an authoritative reference on ichneumonid biology, life history strategies, and morphological adaptations, and served as a conceptual backbone for much of the work. @klopfstein2019a synthesized the current state of ichneumonid research based on an international expert workshop and outlined urgent priorities for taxonomy, phylogenetics, ecology, and data infrastructure. It was particularly valuable in framing research gaps and future directions. For applied field methods, @broad2018 was instrumental, offering detailed practical guidelines for the collection, preservation, and handling of ichneumonid specimens, as well as concise and informative subfamily descriptions. In the context of Switzerland, the national checklist by @klopfstein2019 was essential in assessing the current state of faunistic knowledge and identifying regional research gaps.
 
 Where ichneumonid-specific literature was lacking — especially in applied ecological subfields such as biological control and community dynamics — supplementary references on hymenopteran parasitoids more broadly were occasionally consulted. Such use was limited and critically assessed to ensure taxonomic and ecological relevance. Regional literature was prioritized for the Swiss context; however, the scarcity of fine-scale ecological studies reflects a broader research gap — both in the study of Ichneumonidae within Switzerland and in the development of applied ecological research on the group more generally.
 
@@ -36,11 +38,11 @@ This synthesis therefore integrates global and regional perspectives to establis
 
 # Current State of Research
 
-The family Ichneumonidae, commonly known as Darwin wasps, is extraordinarily species-rich and biologically diverse, yet remains comparatively understudied in many aspects. Recent research has begun to illuminate the biology, systematics, evolution, and ecology of this group, but large gaps in knowledge persist. Below, I review the current scientific understanding of ichneumonid parasitoid wasps in terms of their biology, taxonomy, evolutionary history, ecological roles, geographic distribution (globally and in Europe, with focus on Switzerland), and the field methods used to study them.
+This section synthesizes current scientific knowledge on ichneumonid parasitoid wasps, focusing on their biology, taxonomy, evolutionary history, ecological roles, geographic distribution — globally, in Europe, and with particular emphasis on Switzerland — and the field methods used to study them.
 
 ## Biology
 
-Ichneumonid wasps are koinobiont or idiobiont parasitoids of other arthropods, meaning their larvae develop by feeding on a host organism, eventually killing it. Nearly all species attack the immature stages of holometabolous insects — especially Lepidoptera, but also Coleoptera, Diptera or other Hymenoptera — although several lineages (e.g. the *Polysphincta* genus-group) specialize on spiders [@quicke2015].
+Darwin wasps are koinobiont or idiobiont parasitoids of other arthropods, meaning their larvae develop by feeding on a host organism, eventually killing it. Nearly all species attack the immature stages of holometabolous insects — especially Lepidoptera, but also Coleoptera, Diptera or other Hymenoptera — although several lineages (e.g., the *Polysphincta* genus-group) specialize on spiders [@quicke2015].
 
 ### Life History Strategies
 
@@ -48,7 +50,7 @@ In idiobiont strategies, the host is permanently paralyzed or developmentally ar
 
 These developmental strategies also broadly correlate with host range. Idiobionts tend to be generalists, targeting a wider array of host taxa. Koinobionts, by contrast, must tolerate continued host development and immune responses, which typically requires finer physiological adaptation and narrows their potential host range. As such, idiobiont/koinobiont status is frequently used as a proxy for specialization, especially when detailed biological data are lacking. While exceptions exist, this general pattern is well supported across Ichneumonoidae and tends to be conserved at the tribe level [@quicke2015].
 
-Finally, a substantial minority of ichneumonids are hyperparasitoids — indeed, only two ichneumonoid lineages are obligate hyperparasitoids, the Eucerotinae and the Mesochorinae; in the latter, species such as *Mesochorus gemellus* oviposit into larvae of the braconid parasitoid *Cotesia glomerata* while those larvae are still developing inside caterpillars of *Pieris brassicae*, thereby inserting a fourth trophic level into terrestrial food webs [@quicke2015; @harvey2016].
+Finally, a substantial minority of Darwin wasps are hyperparasitoids — indeed, only two ichneumonoid lineages are obligate hyperparasitoids, the Eucerotinae and the Mesochorinae; in the latter, species such as *Mesochorus gemellus* oviposit into larvae of the braconid parasitoid *Cotesia glomerata* while those larvae are still developing inside caterpillars of *Pieris brassicae*, thereby inserting a fourth trophic level into terrestrial food webs [@quicke2015; @harvey2016].
 
 ### Host Range and Specialization
 
@@ -66,7 +68,7 @@ Despite this diversity, host records remain unknown for the vast majority of ich
 
 ### Physiological and Biochemical Adaptations
 
-Ichneumonid wasps have evolved sophisticated mechanisms to overcome host immune defenses and ensure successful development of their offspring. Most koinobiont species inject venom along with their eggs; its enzymes and protease inhibitors can paralyse the host briefly and, more importantly, block haemocyte spreading and melanisation, buying time for the young parasitoid to establish. In many endoparasitic taxa the egg is further masked by calyx-derived coatings that help it escape early encapsulation [@quicke2015].
+Darwin wasps have evolved sophisticated mechanisms to overcome host immune defenses and ensure successful development of their offspring. Most koinobiont species inject venom along with their eggs; its enzymes and protease inhibitors can paralyse the host briefly and, more importantly, block haemocyte spreading and melanisation, buying time for the young parasitoid to establish. In many endoparasitic taxa the egg is further masked by calyx-derived coatings that help it escape early encapsulation [@quicke2015].
 
 A smaller set of lineages adds a longer-acting layer of control: symbiotic polydnaviruses. In Ichneumonidae, these viruses are referred to as ichnoviruses. Females in the Campopleginae and the distantly related Banchinae co-inject ichnoviruses whose genes dampen immune signalling, arrest moulting, and reroute nutrients to the developing larva [@strand2015; @quicke2015]. Interestingly, comparative analyses show that ichnoviruses evolved independently in each of these two subfamilies, reflecting strong convergent selection for viral mutualists in otherwise distant lineages. Some evidence suggests that members of the Ctenopelmatinae may also possess ichnoviruses; if confirmed, this would likely represent a third, independent origin [@quicke2015]. Phylogenomics further reveals that, unlike braconid bracoviruses (which retain clear nudiviral ancestry), ichnoviruses lack recognisable nudiviral genes, underscoring that viral domestication has occurred independently — and convergently — on multiple occasions within parasitoid wasps [@strand2015].
 
@@ -114,7 +116,7 @@ The consolidation of ichneumonid taxonomy is being reinforced by modern database
 
 ## Evolution
 
-The evolutionary history of ichneumonid wasps is a subject of much interest, as it ties into broader questions of coevolution with hosts and biogeographic radiation. Together with Braconidae, Ichneumonidae forms the superfamily Ichneumonoidea — an ancient clade of parasitoid wasps likely originating in the mid-Mesozoic [@quicke2015].
+The evolutionary history of Darwin wasps is a subject of much interest, as it ties into broader questions of coevolution with hosts and biogeographic radiation. Together with Braconidae, Ichneumonidae forms the superfamily Ichneumonoidea — an ancient clade of parasitoid wasps likely originating in the mid-Mesozoic [@quicke2015].
 
 ### Fossil Record and Origins
 
@@ -180,7 +182,7 @@ In conservation biocontrol, these behavioural and physiological insights help ex
 
 ### Life History Trade-Offs and Fecundity
 
-Fecundity and reproductive allocation in ichneumonid wasps are governed by evolutionary trade-offs among egg number, egg size, development time, and host use strategies. These traits are closely tied to the distinction between idiobiont and koinobiont parasitism. Idiobionts, which arrest host development at oviposition, tend to lay fewer but larger eggs, while koinobionts, whose hosts continue growing after parasitism, typically invest in smaller, more numerous eggs [@cummins2011; @traynor2005].
+Fecundity and reproductive allocation in Darwin wasps are governed by evolutionary trade-offs among egg number, egg size, development time, and host use strategies. These traits are closely tied to the distinction between idiobiont and koinobiont parasitism. Idiobionts, which arrest host development at oviposition, tend to lay fewer but larger eggs, while koinobionts, whose hosts continue growing after parasitism, typically invest in smaller, more numerous eggs [@cummins2011; @traynor2005].
 
 Comparative dissections of field-collected ichneumonids show this trade-off clearly: idiobionts like *Labena* and *Xorides* carried only a handful of mature oocytes at a time, whereas koinobionts such as *Rhorus* or *Sympherta* carried dozens to hundreds, even after accounting for body size differences [@cummins2011]. This pattern reflects broader ovariolar variation: species targeting early instar or exposed hosts generally evolve higher ovariole numbers and fecundity, whereas those parasitizing later instars or concealed hosts show reduced reproductive rates [@traynor2005].
 
@@ -202,7 +204,7 @@ Although most ichneumonids are diurnal, nocturnality has evolved repeatedly amon
 
 ### Diapause and Overwintering Strategies
 
-Diapause is a crucial life history adaptation in ichneumonid wasps, enabling developmental arrest in response to seasonal environmental stress, especially in temperate regions. Most commonly occurring at the larval or prepupal stage, diapause enables synchrony with host availability and protection against climatic extremes. Its expression ranges from obligate, as in univoltine species inhabiting predictably harsh winters, to facultative in plurivoltine taxa, where photoperiod, temperature, or host-derived cues shape plastic responses[@quicke2015; @shen2025]. Entry into diapause is often regulated by critical photoperiod thresholds, but this response can be modulated by both maternal effects and geographic origin — for example, females that experience short photoperiods or cooler temperatures tend to produce more diapausing offspring, while northern populations typically exhibit longer daylength thresholds for diapause induction than their southern counterparts [@shen2025]. In some species, such as *Pimpla rufipes*, not all individuals enter diapause under identical conditions [@quicke2015], a pattern that may reflect a bet-hedging strategy to buffer against interannual variability in host availability. Host physiology may also influence diapause regulation, especially in koinobionts, where parasitoid larvae often rely on host-derived cues — such as species identity, developmental stage, morph, or hormone levels — to initiate or terminate dormancy [@shen2025].
+Diapause is a crucial life history adaptation in Darwin wasps, enabling developmental arrest in response to seasonal environmental stress, especially in temperate regions. Most commonly occurring at the larval or prepupal stage, diapause enables synchrony with host availability and protection against climatic extremes. Its expression ranges from obligate, as in univoltine species inhabiting predictably harsh winters, to facultative in plurivoltine taxa, where photoperiod, temperature, or host-derived cues shape plastic responses[@quicke2015; @shen2025]. Entry into diapause is often regulated by critical photoperiod thresholds, but this response can be modulated by both maternal effects and geographic origin — for example, females that experience short photoperiods or cooler temperatures tend to produce more diapausing offspring, while northern populations typically exhibit longer daylength thresholds for diapause induction than their southern counterparts [@shen2025]. In some species, such as *Pimpla rufipes*, not all individuals enter diapause under identical conditions [@quicke2015], a pattern that may reflect a bet-hedging strategy to buffer against interannual variability in host availability. Host physiology may also influence diapause regulation, especially in koinobionts, where parasitoid larvae often rely on host-derived cues — such as species identity, developmental stage, morph, or hormone levels — to initiate or terminate dormancy [@shen2025].
 
 While diapause in ichneumonids typically occurs during immature stages, some species also overwinter as adults[@quicke2015]. Adult diapause, often termed reproductive diapause, is especially prevalent in Ichneumoninae and occurs more rarely in Pimplinae, Metopiinae, and other subfamilies [@verheyde2022]. These fertilized females, having mated prior to dormancy, seek out stable overwintering shelters — under bark, in moss, or in natural cavities such as caves or grass tussocks — where they remain dormant until favorable conditions return [@verheyde2022]. These microhabitats buffer climatic extremes, with selection often favoring north-facing slopes or deep forest locations where stable cold temperatures prevent premature termination [@quicke2015]. As in larval forms, adult diapause is primarily induced by photoperiod, though maternal effects, geographic origin, and temperature modulate its depth, duration, and expression. It can be obligate or facultative, depending on species and environmental context [@shen2025; @verheyde2022]. Physiological adaptations include the accumulation of cryoprotectants such as glycerol, which depresses the supercooling point to as low as -30°C, enhancing freeze avoidance [@quicke2015]. Together, these traits ensure survival through winter and timely reactivation in synchrony with host availability.
 
@@ -256,7 +258,7 @@ Understanding ichneumonid diversity requires grappling with both their remarkabl
 
 ### Global Patterns
 
-The global distribution of Ichneumonidae reflects both the deep evolutionary history of the group and the substantial biases that continue to shape our understanding of its diversity. As outlined in preceding sections, ichneumonid wasps form a monophyletic, morphologically and ecologically diverse lineage with origins in the Mesozoic. Today, they occur across all vegetated continents and occupy nearly every terrestrial biome that supports insect hosts. Yet despite their ubiquity, our knowledge of ichneumonid distribution remains patchy and heavily skewed by historical sampling and taxonomic bias.
+The global distribution of Ichneumonidae reflects both the deep evolutionary history of the group and the substantial biases that continue to shape our understanding of its diversity. As outlined in preceding sections, Ichneumonidae form a monophyletic, morphologically and ecologically diverse lineage with origins in the Mesozoic. Today, they occur across all vegetated continents and occupy nearly every terrestrial biome that supports insect hosts. Yet despite their ubiquity, our knowledge of ichneumonid distribution remains patchy and heavily skewed by historical sampling and taxonomic bias.
 
 For much of the 20th century, Ichneumonidae were regarded as an exception to the latitudinal diversity gradient, appearing more diverse in temperate regions than in the tropics [@quicke2015]. Early support for this "anomalous diversity" stemmed from studies such as Owen & Owen's Malaise trap surveys, which found fewer ichneumonids in Sierra Leone compared to England [@quicke2012a]. Various hypotheses were put forward to explain this pattern, ranging from the prevalence of easily parasitized hosts (like sawflies) in temperate regions, to the "nasty host hypothesis," which proposed that tropical herbivores often sequester defensive toxins, rendering them unsuitable for parasitism [@quicke2015].
 
@@ -328,7 +330,7 @@ Correct labeling is essential for specimen integrity and later verification. Lab
 
 # Research Gaps and Future Directions
 
-Ichneumonid wasps form one of the largest and most ecologically significant insect families, yet research still lags dramatically behind their true diversity. This disparity is most pronounced in taxonomy and systematics, but it extends across all levels of biological and ecological understanding — from basic host associations to their potential roles in conservation and biological control.
+Darwin wasps form one of the largest and most ecologically significant insect families, yet research still lags dramatically behind their true diversity. This disparity is most pronounced in taxonomy and systematics, but it extends across all levels of biological and ecological understanding — from basic host associations to their potential roles in conservation and biological control.
 
 ## Taxonomy and Phylogeny
 
@@ -380,19 +382,19 @@ Building on the gaps outlined above, this section identifies research avenues th
 
 This consultation confirmed that species-level ecological studies are typically infeasible within the timeframe of a one-season thesis. Taxonomic instability, limited identification tools, and the sheer diversity of the group make such efforts methodologically difficult and unlikely to yield conclusive results. In contrast, Dr. Klopfstein emphasized the potential of studies focusing on higher taxonomic or functional levels — such as subfamilies, morphotypes, or ecological guilds — which allow for more reliable identification and robust ecological inference.
 
-Based on this expert assessment and the preceding synthesis, I propose three applied research directions designed to be both feasible and ecologically meaningful under current conditions in Switzerland.
+Based on this expert assessment and the preceding synthesis, I propose three applied research directions designed to be both feasible and ecologically meaningful under current conditions in Switzerland. These initial ideas will later be revisited and further refined in consultation with Dr. Klopfstein to assess their practical implementation and determine project-specific details.
 
 ## Alpine Ichneumonid Diversity Along Elevation Gradients
 
-### Research Question
+**Research Question**
 
 How does ichneumonid community composition and subfamily richness vary along elevational gradients in the Swiss Alps?
 
-### Rationale
+**Rationale**
 
 Alpine and subalpine zones in Switzerland are increasingly recognized as overlooked centers of ichneumonid diversity. Klopfstein's checklist [@klopfstein2019] reports exceptionally high species-per-specimen ratios at high elevations, suggesting both undercollection and ecologically distinct assemblages. Altitudinal gradients provide natural experiments in how climate, vegetation structure, and host availability shape community assembly. Yet, no systematic surveys have been conducted to quantify how ichneumonid communities respond to elevation in the Alps — despite mounting evidence from other mountain systems that parasitoid diversity can shift dramatically across elevation bands [@veijalainen2014; @hall2015].
 
-### Methods
+**Methods**
 
 -   Establish transects of Malaise and/or pan traps spanning a broad elevational gradient (e.g., 800–2500 m), ensuring replication within each elevation band.
 
@@ -402,7 +404,7 @@ Alpine and subalpine zones in Switzerland are increasingly recognized as overloo
 
 -   Analyze community composition using ordination (e.g., NMDS) and test for elevation-driven turnover (e.g., PERMANOVA, beta diversity partitioning).
 
-### Significance
+**Significance**
 
 -   Provides baseline data on ichneumonid community structure along a major environmental gradient.
 
@@ -412,25 +414,25 @@ Alpine and subalpine zones in Switzerland are increasingly recognized as overloo
 
 ## Effects of Habitat Fragmentation on Ichneumonid Communities
 
-### Research Question
+**Research Question**
 
 How does habitat fragmentation and land-use intensity affect ichneumonid abundance, richness, and subfamily composition in lowland agricultural landscapes?
 
-### Rationale
+**Rationale**
 
 Landscape simplification and fragmentation is linked to the decline of specialized parasitoids [@fraser2008a; @ruiz-guerra2013]. Swiss lowlands offer a mosaic of hedgerows, meadows, orchards, and forests — ideal for testing how fragmentation and connectivity affect parasitoid assemblages, particularly koinobionts, idiobionts, and hyperparasitoids.
 
-### Methods
+**Methods**
 
 -   Sample multiple landscapes with standardized Malaise traps across a fragmentation gradient (e.g., isolated meadows, connected woodlots, agroforestry systems).
 
 -   Characterize landscape metrics (patch size, edge density, connectivity) using high-resolution GIS and remote sensing.
 
--   Sort to subfamily/functional group (e.g., internal vs. external parasitoids; host taxon preference).
+-   Sort to subfamily/functional group (e.g., idiobionts vs. koinobionts; host taxon preference).
 
 -   Analyze richness and composition using GLMs, distance-based redundancy analysis (dbRDA), and functional trait filtering.
 
-### Significance
+**Significance**
 
 -   Quantifies the vulnerability of functional groups to landscape change.
 
@@ -440,25 +442,25 @@ Landscape simplification and fragmentation is linked to the decline of specializ
 
 ## Functional Diversity Across Habitat Types
 
-### Research Question
+**Research Question**
 
 How do ichneumonid functional assemblages differ between major habitat types in Switzerland, and what does this reveal about habitat filtering and trophic strategies?
 
-### Rationale
+**Rationale**
 
 Habitat structure and host communities shape parasitoid guild composition, yet functional turnover across temperate habitats remains poorly understood. Comparing forest edges, meadows, orchards, and alpine grasslands could reveal how traits like host range, life history, and phenology structure assemblages under different ecological conditions [@quicke2015; @klopfstein2019a].
 
-### Methods
+**Methods**
 
 -   Sample ichneumonids across replicated habitat types with identical trap effort.
 
--   Sort to subfamily and functional guild (e.g., idiobionts vs. koinobionts).
+-   Sort to subfamily and functional guild (e.g., idiobionts vs. koinobionts; host taxon preference).
 
 -   Use trait-based diversity indices (e.g., Rao's Q, FDis) and redundancy analysis to link traits with habitat variables.
 
 -   Optionally record vegetation structure or potential host communities.
 
-### Significance
+**Significance**
 
 -   Clarifies how habitat differences shape parasitoid community function.
 
@@ -472,6 +474,8 @@ Darwin wasps exemplify both the potential and the challenges of modern biodivers
 
 At the same time, recent advances in high-throughput sequencing, integrative taxonomy, and DNA-barcoded collections are creating new opportunities for large-scale progress. Capitalizing on these tools will require a shift in emphasis — from exhaustive species-level inventories to clearly framed, question-driven studies at higher taxonomic or functional levels.
 
-The research directions outlined here — elevational turnover in the Alps, responses to landscape fragmentation, and habitat-linked functional diversity — illustrate how ecological insights can be pursued even in the face of taxonomic limitations. Each is feasible within a master's thesis framework, contributes to conservation-relevant knowledge, and produces data that will remain valuable as taxonomic resolution improves. These approaches offer a practical path forward for building foundational ecological understanding and integrating Ichneumonidae into biodiversity monitoring, ecosystem management, and applied entomology.
+The applied research directions outlined here — ranging from elevational community turnover to fragmentation effects and habitat-linked functional diversity — are intended as preliminary concepts grounded in current knowledge and informed by expert consultation. In future planning stages, these ideas will be further refined in dialogue with specialists such as Dr. Klopfstein to assess their feasibility and define project-specific details. Taken together, they offer practical entry points for ecological research on Darwin wasps and represent promising steps toward integrating this group into biodiversity monitoring, ecosystem management, and applied entomology.
+
+\newpage{}
 
 # References

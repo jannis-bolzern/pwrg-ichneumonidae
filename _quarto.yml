@@ -16,10 +16,22 @@ format:
     toc-depth: 3
     csl: apa.csl
     bibliography: references.bib
-  typst:
-    section-numbering: 1.1.1
-    number-depth: 2
+  pdf: 
+    number-sections: true
+    number-depth: 3
     toc: true
-    toc-depth: 2
+    toc-depth: 3
+    sansfont: Source Serif Pro
+    mainfont: Source Serif Pro
     csl: apa.csl
     bibliography: references.bib
+    link-citations: true
+    citecolor: SteelBlue
+    urlcolor: SteelBlue
+    include-in-header:
+      text: |
+        \usepackage{setspace}
+        \setstretch{1.2}
+    include-before-body: 
+      text: |
+        \newpage{}
