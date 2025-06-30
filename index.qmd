@@ -384,6 +384,8 @@ This consultation confirmed that species-level ecological studies are typically 
 
 Based on this expert assessment and the preceding synthesis, I propose three applied research directions designed to be both feasible and ecologically meaningful under current conditions in Switzerland. These initial ideas will later be revisited and further refined in consultation with Dr. Klopfstein to assess their practical implementation and determine project-specific details.
 
+\newpage{}
+
 ## Alpine Ichneumonid Diversity Along Elevation Gradients
 
 **Research Question**
@@ -392,7 +394,7 @@ How does ichneumonid community composition and subfamily richness vary along ele
 
 **Rationale**
 
-Alpine and subalpine zones in Switzerland are increasingly recognized as overlooked centers of ichneumonid diversity. Klopfstein's checklist [@klopfstein2019] reports exceptionally high species-per-specimen ratios at high elevations, suggesting both undercollection and ecologically distinct assemblages. Altitudinal gradients provide natural experiments in how climate, vegetation structure, and host availability shape community assembly. Yet, no systematic surveys have been conducted to quantify how ichneumonid communities respond to elevation in the Alps — despite mounting evidence from other mountain systems that parasitoid diversity can shift dramatically across elevation bands [@veijalainen2014; @hall2015].
+Alpine and subalpine zones in Switzerland are increasingly recognized as overlooked centers of ichneumonid diversity. Klopfstein's checklist [@klopfstein2019] reports exceptionally high species-per-specimen ratios at high elevations, suggesting both undercollection and ecologically distinct assemblages. Altitudinal gradients provide natural experiments in how climate, vegetation structure, and host availability shape community assembly. Yet, no systematic surveys have been conducted to quantify how ichneumonid communities respond to elevation in the Alps — despite evidence from other mountain systems that parasitoid diversity can shift dramatically across elevation bands [@veijalainen2014; @hall2015].
 
 **Methods**
 
